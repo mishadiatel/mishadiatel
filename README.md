@@ -14,7 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
+
+## About Me 🧑‍💻
+- 🗺️ I'm from Kyiv, Ukraine
+- 🌱 I’m currently learning at the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute". 122 Computer Science
+
+## Languages and tools 🛠️
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git)
