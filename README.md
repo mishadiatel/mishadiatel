@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning at the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute". 122 Computer Science
 
 ## Languages and tools 🛠️
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git)
 
 ## Follow me 📧
